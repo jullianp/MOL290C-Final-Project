@@ -1,0 +1,11 @@
+Area,Cancer Type,Year,Sex,Race,Age-Adjusted Rate,Death Count,Population
+United States,Corpus and Uterus NOS,2014-2018,Male and Female,All Races and Ethnicities,4.9,52788,819086265
+United States,Non-Hodgkin Lymphoma,2014-2018,Male and Female,All Races and Ethnicities,5.4,101555,1613550522
+United States,Leukemias,2014-2018,Male and Female,All Races and Ethnicities,6.3,116728,1613550522
+United States,Liver and Intrahepatic Bile Duct,2014-2018,Male and Female,All Races and Ethnicities,6.6,131816,1613550522
+United States,Ovary,2014-2018,Male and Female,All Races and Ethnicities,6.7,70279,819086265
+United States,Pancreas,2014-2018,Male and Female,All Races and Ethnicities,11,213715,1613550522
+United States,Colon and Rectum,2014-2018,Male and Female,All Races and Ethnicities,13.7,261043,1613550522
+United States,Prostate,2014-2018,Male and Female,All Races and Ethnicities,19,149535,794464257
+United States,Female Breast,2014-2018,Male and Female,All Races and Ethnicities,20.1,208686,819086265
+United States,Lung and Bronchus,2014-2018,Male and Female,All Races and Ethnicities,38.5,746042,1613550522

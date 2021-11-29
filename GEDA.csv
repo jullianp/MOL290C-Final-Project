@@ -1,0 +1,6 @@
+"","Cell Line","Gene: Fluorouracil","Drug: BRCA2-NSC:19893","Color","Tissue abbr.","Tissue","Tumor subtype","Tumor source"
+"32","BR.MCF7","1.835","1.34","#fa7ac1","BR","Breast","Adenocarcinoma; mammary gland; breast; metastatic site: pleural effusion;","Pleural effusion"
+"33","BR.MDA.MB.231","0.45","-1.85","#fa7ac1","BR","Breast","Adenocarcinoma; mammary gland; breast; epithelial; metastatic site: pleural effusion;","Pleural effusion"
+"34","BR.HS.578T","0.203","-1.3","#fa7ac1","BR","Breast","Carcinosarcoma; mammary gland; breast","Primary"
+"35","BR.BT.549","-0.147","-0.85","#fa7ac1","BR","Breast","Papillary infiltrating ductal carcinoma; mammary gland; breast","Metastasis"
+"36","BR.T.47D","-0.912","-0.44","#fa7ac1","BR","Breast","Infiltrating ductal carcinoma",""
